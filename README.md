@@ -1,4 +1,5 @@
-# Komparchas
+# hello-world
+Turi išlikti
 
-Ignas Smetona, elektronikos inzinerjos studentas.
-Moon tacos are good I guess.
+Pakeitimas pagal pavyzdžio 3 žingsnį
+plius truputį daugiau
